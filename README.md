@@ -1,1 +1,1 @@
-# study_js
+# Javascript学習用リポジトリ
